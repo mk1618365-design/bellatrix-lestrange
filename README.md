@@ -1,6 +1,5 @@
 <html>
  <head>
-  <title> Bellatrix Lestrange </title>
   <link rel="stylesheet" href="style.css">
  </head>
   <body>
